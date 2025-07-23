@@ -28,3 +28,7 @@ Designed to mimic a real calculator layout with a sleek, dark-themed UI.
 
 ## 📁 Project Structure
 
+calculator/
+├── index.html # Main HTML file
+├── styles.css # All styling for calculator layout & theme
+└── script.js # Logic for input, operations, and display
